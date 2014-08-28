@@ -1,5 +1,0 @@
-class BikesController < ApplicationController
-
-
-end
-
